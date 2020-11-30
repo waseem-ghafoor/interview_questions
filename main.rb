@@ -20,9 +20,9 @@ end
 
 #reverse_items(items)
 
-"In case Table already exist"
-1- Can rollback conflicting migration
-2- Remove new migration file and use existing table, Alter table if required.
+#"In case Table already exist"
+#1- Can rollback conflicting migration
+#2- Remove new migration file and use existing table, Alter table if required.
 
 
 
